@@ -1,12 +1,6 @@
 ### Hello, world! 🤟
 
-<div align="right">
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/ogiovannyoliveira)](https://github.com/ogiovannyoliveira)
-
-</div>
-
-I'm Giovanny Lucas, a full-stack Software Engineer and Node.js specialist. Welcome to my personal projects! :)
+I'm Giovanny Oliveira, a full-stack Software Engineer and Node.js specialist. Welcome to my personal projects! :)
 
 - 🏢 Working currently as a Software Back-end Developer at [@Luby](https://luby.com.br/)
 - 🔭 Using daily Node.js, JavaScript, Relational database, AWS
@@ -15,7 +9,6 @@ I'm Giovanny Lucas, a full-stack Software Engineer and Node.js specialist. Welco
 <br/>
 
 ### Stacks :computer:
-----
 
 <a style="text-decoration: none;" href="https://www.javascript.com">
   <img height="32" src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-0.png" alt="JavaScript"/>
@@ -39,16 +32,8 @@ I'm Giovanny Lucas, a full-stack Software Engineer and Node.js specialist. Welco
 <br/>
 
 ### Stats :chart_with_upwards_trend:
-----
 
 <div align="center" style="display: flex; flex-wrap: wrap">
-
-  <div style="margin: 3px">
-
-  [![Giovanny's github stats](https://github-readme-stats.vercel.app/api?username=ogiovannyoliveira&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-    
-    
-  </div>
 
   <div style="margin: 3px; min-width: 300px">
 
