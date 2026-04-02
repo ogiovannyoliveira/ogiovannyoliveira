@@ -2,7 +2,7 @@
 
 I'm Giovanny Oliveira, a full-stack Software Engineer and Node.js specialist. Welcome to my personal projects! :)
 
-- 🏢 Working currently as a Software Back-end Developer at [@Luby](https://luby.com.br/)
+- 🏢 Working currently as a Full-stack Software Engineer at [@Luby](https://luby.com.br/)
 - 🔭 Using daily Node.js, JavaScript, Relational database, AWS
 - ⚡ I adore playing instruments
 - 🧭 Brazil, Northeast, RN
