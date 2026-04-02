@@ -2,41 +2,26 @@
 
 <div align="right">
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/GiovannyLucas)](https://github.com/GiovannyLucas)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/ogiovannyoliveira)](https://github.com/ogiovannyoliveira)
 
 </div>
 
-I'm Giovanny Lucas, Full Stack developer eternal programming apprentice and the like. I'm studying Software Engineering and I want to share here a little bit about what I'm daily learning in my research, studies, free courses, books and curiosities / own experiences. Hehey!
+I'm Giovanny Lucas, a full-stack Software Engineer and Node.js specialist. Welcome to my personal projects! :)
 
-- 🏢 Working currently as a Software Back-end Developer at [@Venturus](https://www.venturus.org.br)
-- 🔭 Using daily Node.js, Relational database, GraphQL
-- 📖 Student in the course FullCycle Developer, at Code Education and the english course "Dynamic", at Times Idiomas school
-- ⛵ Learning about IoT
-- 🌱 Keeping alive React.js and React Native inside of me
-- ⚡ I like too much play instruments and play with cards in my free time
+- 🏢 Working currently as a Software Back-end Developer at [@Luby](https://luby.com.br/)
+- 🔭 Using daily Node.js, JavaScript, Relational database, AWS
+- ⚡ I adore playing instruments
 - 🧭 Brazil, Northeast, RN
 <br/>
 
 ### Stacks :computer:
 ----
 
-<a style="text-decoration: none;" href="https://www.w3schools.com/html/">
-  <img height="32" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" alt="HTML"/>
-</a>
-<a style="text-decoration: none;" href="https://www.w3schools.com/css/">
-  <img height="32" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" alt="CSS"/>
-</a>
 <a style="text-decoration: none;" href="https://www.javascript.com">
   <img height="32" src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-0.png" alt="JavaScript"/>
 </a>
 <a style="text-decoration: none;" href="https://www.typescriptlang.org/">
   <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript"/>
-</a>
-<a style="text-decoration: none;" href="https://vuejs.org/">
-  <img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/367_Vuejs_logo-512.png" alt="Vue"/>
-</a>
-<a style="text-decoration: none;" href="https://nuxtjs.org/">
-  <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Nuxt_logo.svg" alt="NuxtJS"/>
 </a>
 <a style="text-decoration: none;" href="https://nodejs.org/en/">
   <img height="32" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-512.png" alt="Node"/>
@@ -46,15 +31,6 @@ I'm Giovanny Lucas, Full Stack developer eternal programming apprentice and the 
 </a>
 <a style="text-decoration: none;" href="https://go.dev/">
   <img height="32" src="https://cdn.worldvectorlogo.com/logos/golang-1.svg" alt="Golang"/>
-</a>
-<a style="text-decoration: none;" href="https://www.postgresql.org/">
-  <img height="32" src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL"/>
-</a>
-<a style="text-decoration: none;" href="https://flutter.dev/">
-  <img height="32" src="https://iconape.com/wp-content/files/yb/61798/png/flutter-logo.png" alt="Flutter"/>
-</a>
-<a style="text-decoration: none;" href="https://dart.dev">
-  <img height="32" src="https://dart.dev/assets/shared/dart/icon/64.png" alt="Dart"/>
 </a>
 <a style="text-decoration: none;" href="https://www.docker.com/">
   <img height="32" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png.webp" alt="Docker"/>
@@ -69,14 +45,14 @@ I'm Giovanny Lucas, Full Stack developer eternal programming apprentice and the 
 
   <div style="margin: 3px">
 
-  [![Giovanny's github stats](https://github-readme-stats.vercel.app/api?username=GiovannyLucas&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Giovanny's github stats](https://github-readme-stats.vercel.app/api?username=ogiovannyoliveira&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
     
     
   </div>
 
   <div style="margin: 3px; min-width: 300px">
 
- [![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=GiovannyLucas&layout=compact&theme=dark&title_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
+ [![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ogiovannyoliveira&layout=compact&theme=dark&title_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 
 </div>
@@ -94,6 +70,6 @@ I'm Giovanny Lucas, Full Stack developer eternal programming apprentice and the 
 
 [mail]: mailto:giovannylucax@gmail.com
 [twitter]: https://twitter.com/giovannylucax
-[github]: https://github.com/GiovannyLucas
+[github]: https://github.com/ogiovannyoliveira
 [linkedin]: https://linkedin.com/in/giovanny-oliveira
 [rocketseat]: https://app.rocketseat.com.br/me/giovanny-lucas
